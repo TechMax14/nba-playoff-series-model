@@ -1,4 +1,4 @@
-# 🏀 NBA Postseason Win Probability Model
+# 🏀 NBA Playoff Series Win Probability Model
 
 A modular, end-to-end machine learning pipeline in **R** designed to predict the **series win probability between two NBA teams in a playoff matchup**. This project processes historical regular season and playoff game-level data to generate matchup-specific features, train a predictive model, and visualize the results — with no data leakage and high modularity.
 
