@@ -65,7 +65,7 @@ This project is written entirely in **R**, using the following libraries:
 The model pipeline proceeds through the following stages:
 
 1. **Data Ingestion & Cleaning**  
-   Ingests raw team-level data from both regular season and playoff games (2004–2023), transforming each row from an offensive team POV to usable metrics.
+   Ingests raw team game-level data from both regular season and playoff games (2004–2023), transforming each row from an offensive team POV to usable metrics.
 
 2. **Feature Engineering**  
    Generates advanced metrics:
